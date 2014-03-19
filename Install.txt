@@ -1,6 +1,10 @@
 
-Place the file RiteShootingRange.sqf in your mission file were you have your custom scripts i use 
-@DayZ_Epoch_Server\addons\dayz_server\buildings\
+View http://www.civil-gaming.nl/DayZ/RiteShootingRange.pdf
+
+Place the file RiteShootingRange.sqf in your mission file were you have your custom map scripts.
+ 
+EXAMPLE: @DayZ_Epoch_Server\addons\dayz_server\buildings\
+
 
 in @DayZ_Epoch_Server\addons\dayz_server\init\server_functions.sqf
 
@@ -14,7 +18,7 @@ pack your mission PBO
 In mission.sqm add the following class item
 
 
-	    class Item37
+	    class Item37 // <--- class follow up number
 		{
 			position[]={6529.25,12717.1, 9279.8};
 			name="RitesRange";
