@@ -28,6 +28,8 @@ In mission.sqm add the following class item
 			colorName="ColorOrange";	
 		};
 
-your done
+Thats it
+
 Have fun with it!
+
 Rythron
