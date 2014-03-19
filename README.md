@@ -19,7 +19,7 @@ pack your mission PBO
 In mission.sqm add the following class item
 
 
-	    class Item37
+	    class Item37 //<-- next classnumber
 		{
 			position[]={6529.25,12717.1, 9279.8};
 			name="RitesRange";
