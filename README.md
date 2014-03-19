@@ -10,6 +10,7 @@ in @DayZ_Epoch_Server\addons\dayz_server\init\server_functions.sqf
 add this line to the bottom
 
 //Rite's Shooting Range
+
 [] ExecVM "\z\addons\dayz_server\buildings\RiteShootingRange.sqf";
 
 pack your mission PBO
