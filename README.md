@@ -29,7 +29,6 @@ In mission.sqm add the following class item
 		};
 
 Thats it
-
 Have fun with it!
 
 Rythron
