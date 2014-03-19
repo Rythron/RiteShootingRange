@@ -2,8 +2,10 @@ RiteShootingRange
 =================
 
 
-Place the file RiteShootingRange.sqf in your mission file were you have your custom scripts i use 
-@DayZ_Epoch_Server\addons\dayz_server\buildings\
+Place the file RiteShootingRange.sqf in your mission file were you have your custom map scripts.
+ 
+EXAMPLE: @DayZ_Epoch_Server\addons\dayz_server\buildings\
+
 
 in @DayZ_Epoch_Server\addons\dayz_server\init\server_functions.sqf
 
